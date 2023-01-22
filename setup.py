@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setup(
 	name="Topsis_Ayush_102016100",
-	version='1.2.2',
+	version='1.2.3',
 	author='Ayush Nagpure',
 	author_email='anagpure_be20@thapar.edu',
 	description='A python package to implement TOPSIS on a given dataset',
