@@ -35,7 +35,15 @@ Topsis-Ayush-102016100  can be run as in the following example:
 ```
 <br>
 
+### Arguments
+| Arguments | Description |
+|------------| -----------------|
+| input_file |  "CSV/Excel" file path |
+| weights | Comma separated numbers |
+| impacts | Comma separated '+' or '-' |
+| output_file | Output CSV file path |
 
+<br>
 
 ## Sample dataset
 
@@ -90,6 +98,19 @@ Information of benefit positive(+) or negative(-) impact criteria should be prov
 <br>
 
 The rankings are stored in a csv file, with the 1st rank offering us the best decision, and last rank offering the worst decision making, according to TOPSIS method.
+
+## API Usage
+### Steps
+1. Import topsis function from module topsis
+2. Invoke topsis function by passing in data, weights, impacts
+
+> Note: Impacts should be a list of -1 and 1. -1 depicting -ve and 1 depicting +ve impact
+
+Example:
+```python
+import Topsis_Ayush_102016100 as tp
+tp.topsis_score("data.csv" ,"2,2,3,3,4" ,"+,-,+,-,+", "result.csv")
+```
 
 ## Debugging and Exception Handling
 > The program has several assert statements which raise errors with helpful description in the following cases:
