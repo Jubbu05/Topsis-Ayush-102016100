@@ -7,7 +7,6 @@ Batch: **3CS10**
 ***
 pypi: <https://pypi.org/project/Topsis-Ayush-102016100>
 <br>
-git: <https://github.com/Jubbu05/Topsis-Ayush-102016100>
 ***
 
 ## Installation
