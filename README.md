@@ -1,5 +1,9 @@
 # TOPSIS-Python
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/Jubbu05/Topsis-Ayush-102016100/blob/main/LICENSE.txt)
+[![GitHub stars](https://img.shields.io/github/stars/Jubbu05/CV_Parking_Space_Counter.svg)](https://github.com/Jubbu05/Topsis-Ayush-102016100/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/Jubbu05/CV_Parking_Space_Counter.svg)](https://github.com/Jubbu05/Topsis-Ayush-102016100/network)
+
 Submitted By: **Ayush Nagpure** <br>
 Roll Number: **102016100** <br>
 Batch: **3CS10**
